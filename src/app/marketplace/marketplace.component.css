@@ -2,3 +2,11 @@
   cursor: pointer;
   color: purple;
 }
+p {
+  font-size: 1.1em;
+  line-height: .75em;
+}
+h2 {
+  font-size: 1.75em;
+  margin-bottom: 20px;
+}
